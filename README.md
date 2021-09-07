@@ -16,3 +16,10 @@
 * DML
 * DCL
 * TCL
+
+## [MySQL 내장 함수](https://github.com/ljiwoo59/DB_Study/tree/master/MYSQL_Functions)
+* 숫자 관련
+* 문자열 관련
+* 날짜 관련
+* 논리 관련
+* 그룹 
