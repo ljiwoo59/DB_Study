@@ -23,3 +23,11 @@
 * 날짜 관련
 * 논리 관련
 * 그룹 
+
+## [JOIN & SubQuery](https://github.com/ljiwoo59/DB_Study/tree/master/Join_SubQuery)
+* INNER JOIN
+* OUTER JOIN
+* SELF JOIN
+* Nested Subquery
+* Inline View
+* Scalar Subquery
