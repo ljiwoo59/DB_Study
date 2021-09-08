@@ -74,7 +74,7 @@ ON or USING;
 * 단일 행 또는 다중 행 비교 연산자와 함께 사용
 * *SELECT, FROM, WHERE, HAVING, ORDER BY, INSERT 문의 VALUES, UPDATE 문의 SET* 에서 사용 가능 
 
-## 중접 서브 쿼리 (Nested Subquery)
+## 중첩 서브 쿼리 (Nested Subquery)
 * **WHERE 문**에 작성하는 서브 쿼리
 ### 단일 행
 * 서브 쿼리의 결과가 *단일 행*을 반환
