@@ -1,4 +1,4 @@
-# JOIN
+# [JOIN](https://github.com/ljiwoo59/DB_Study/blob/master/Join_SubQuery/subquery.sql)
 * **둘 이상의 테이블에서 데이터가 필요한 경우** 테이블 조인이 필요
 * 일반적으로 조인 조건을 포함하는 *WHERE* 절을 작성
 * 조인 조건은 일반적으로 각 테이블의 *PK* 및 *FK* 로 구성
