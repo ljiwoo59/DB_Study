@@ -69,7 +69,7 @@ ON or USING;
 
 ---
 
-# SubQuery
+# [SubQuery](https://github.com/ljiwoo59/DB_Study/blob/master/Join_SubQuery/subquery2.sql)
 * 다른 쿼리 **내부에 포함되어 있는 SELECT 문**
 * 단일 행 또는 다중 행 비교 연산자와 함께 사용
 * *SELECT, FROM, WHERE, HAVING, ORDER BY, INSERT 문의 VALUES, UPDATE 문의 SET* 에서 사용 가능 
