@@ -1,7 +1,7 @@
 # DB_Study
 
 ## Project
-### [HappyHouse 데이터베이스](https://github.com/ljiwoo59/HappyHouse_DB)
+### [JDBC를 이용한 데이터베이스 연결](https://github.com/ljiwoo59/HappyHouse_DB)
 
 ---
 
