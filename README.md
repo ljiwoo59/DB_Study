@@ -1,5 +1,10 @@
 # DB_Study
 
+## Project
+### [HappyHouse 데이터베이스](https://github.com/ljiwoo59/HappyHouse_DB)
+
+---
+
 ## RDBMS
 * **관계형 데이터베이스 시스템**
 * **테이블 기반**의 DBMS
