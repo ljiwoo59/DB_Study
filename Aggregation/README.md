@@ -39,6 +39,7 @@ ORDER BY col # 6
 /* Error : department_id 는 다중 행 반환, sum, avg 는 단일 행 반환 */
 select department_id, sum(salary), avg(salary) from employees;
 
+
 select department_id, sum(salary), avg(salary)
 from employees
 group by department_id;
@@ -74,6 +75,7 @@ select department_id, avg(salary)
 from employees
 where avg(salary) > 7000
 group by department_id;
+
 
 select department_id, avg(salary)
 from employees
