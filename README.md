@@ -36,3 +36,17 @@
 * Nested Subquery
 * Inline View
 * Scalar Subquery
+
+## [Aggregation](https://github.com/ljiwoo59/DB_Study/tree/master/Aggregation)
+* Aggregation Function
+* GROUP BY
+* HAVING
+* SET
+
+## [Database Modeling](https://github.com/ljiwoo59/DB_Study/tree/master/Modeling)
+* 개념적 모델링
+ * 개체, 속성, 관계
+* 논리적 모델링
+ * 정규화
+* 물리적 모델링
+ * 역정규화
